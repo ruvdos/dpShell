@@ -1,6 +1,7 @@
 package Main.Controllers;
 
 import Main.Logics.DTO;
+import Main.Logics.ExcelParser;
 import Main.Logics.ReadFilesFromFolder;
 import Main.MyClass;
 import javafx.collections.ObservableList;
@@ -12,7 +13,6 @@ import javafx.stage.Stage;
 
 import java.io.File;
 import java.util.List;
-
 public class MainFormController {
     @FXML private TabPane tabPane;
     @FXML private Button btn_settings;
@@ -155,7 +155,7 @@ public class MainFormController {
 
 
         btn_settings.setOnAction(event -> {
-
+            System.out.println(ExcelParser.parse("C:\\Апрель 2023.xlsx"));
         });
 
 
