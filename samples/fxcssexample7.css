@@ -1,0 +1,34 @@
+.root 
+{
+	-fx-border-color: blue;
+	-fx-border-width: 2px;
+	-fx-border-radius: 5px;
+	-fx-border-insets: 5px;
+	-fx-padding: 10px;
+	-fx-spacing: 5px;
+	-fx-background-color: lightgray;
+	-fx-background-insets: 5px;
+}
+
+.button 
+{
+	-fx-font-size: 20px;
+	-fx-border-insets: 5;
+	-fx-border-radius: 5;
+}
+
+#cancelButton 
+{
+	-fx-font-size: 20px;
+	-fx-border-insets: 5;
+	-fx-border-radius: 5;
+	-fx-background-color: lightgreen;
+	-fx-text-fill: red;
+}
+
+.label
+{
+	-fx-font-family: "arial";
+	-fx-font-size: 14px;
+	-fx-font-weight: bolder;
+}

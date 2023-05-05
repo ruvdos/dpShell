@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="ISO-8859-1">
+    <file url="file://$PROJECT_DIR$" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/AddMD5CellController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/AdminPassController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/DeleteLogsDialogController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/DialogNameController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/MainFormController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/PathEditController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/PathEditTestNGController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/TemplateRenameController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/TestAddController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Controllers/TestRenameController.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Logics/DTO.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Logics/ReadINI.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Logics/Tools.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Logics/WriteINI.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/MyClass.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Main/Tabs/PrepareSession/PrepareSession.java" charset="windows-1251" />
+    <file url="PROJECT" charset="windows-1251" />
+  </component>
+</project>

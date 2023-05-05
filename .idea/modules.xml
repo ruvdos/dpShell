@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UOtester.iml" filepath="$PROJECT_DIR$/UOtester.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dpShell.iml" filepath="$PROJECT_DIR$/dpShell.iml" />
+    </modules>
+  </component>
+</project>
